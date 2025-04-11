@@ -1,18 +1,22 @@
-## Getting Started
+Práctica de Algoritmos de Ordenamiento
+📌 Información General
+Título: Práctica de Algoritmos de Ordenamiento
+Asignatura: Estructura de Datos
+Carrera: Computación
+Estudiante: Kevin Paladines
+Fecha: 31/03/2025
+Profesor: Ing. Pablo Torres
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+Ejercicio Recursividad
 
-The workspace contains two folders by default, where:
+🧑‍💻 Ejemplo de Entrada
+----- EJERCICIO 1 -----
+el resultado de fibonacci es :5
+el resultado de la suma de los numero de n es :15
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+----- EJERCICIO 2 -----
+2 elevado a 3 es: 8
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+----- EJERCICIO 3 -----
+Resultado de la suma de los digitos:8
