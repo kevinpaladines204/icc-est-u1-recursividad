@@ -26,9 +26,15 @@ el resultado de la suma de los numero de n es :15
 
 2 elevado a 3 es: 8
 
------ EJERCICIO 3 -----
 
-Resultado de la suma de los digitos:8
+----- EJERCICIO 3 -----
+El resultado de la suma de los digitos del numero 125 es: 8
+
+----- EJERCICIO 4 -----
+Números descendentes desde 9: 9 8 7 6 5 4 3 2 1 
+
+----- EJERCICIO 5 -----
+el reverso de :1234 es 4321
 ```
 
 ---

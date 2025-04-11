@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         //System.out.println("Hello, World!");
+    System.out.println();
     EjerciciosRecursivos e= new EjerciciosRecursivos();
     System.out.println("----- EJERCICIO 1 -----");
     int fibo = e.fibonacci(5);
@@ -19,11 +20,23 @@ public class App {
 
     System.out.println("----- EJERCICIO 3 -----");
     EjerciciosRecursivos s= new EjerciciosRecursivos();
-    int numero= 125;
-    System.out.println("Resultado de la suma de los digitos:" + s.sumaDigitos(numero) );
+    int digito= 125;
+    System.out.println("El resultado de la suma de los digitos del numero "+digito+" es: " + s.sumaDigitos(digito) );
     System.out.println();
 
 
+    System.out.println("----- EJERCICIO 4 -----");
+    int n = 9;
+    System.out.print("Números descendentes desde " + n + ": ");
+    e.imprimirDescendente(n);
+    System.out.println();
+
+    System.out.println();
+    System.out.println("----- EJERCICIO 5 -----");
+    EjerciciosRecursivos r= new EjerciciosRecursivos();
+    int numero = 1234;
+    int resultadoRevertible= r.reverso(numero, 0);
+    System.out.println("el reverso de :"+ numero + " es "+ resultadoRevertible);
     }
 }
 
